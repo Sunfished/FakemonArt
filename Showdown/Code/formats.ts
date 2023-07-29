@@ -1,4 +1,4 @@
-unbanlist: ['Hedgeko','Florecko','Sentecko','Scorchog','Bombardillo','Kabangolin','Fisker','Catfisk','Nekimono','Elfae-Watermelon',
+unbanlist: ['Hedgeko','Florecko','Sentecko','Scorchog','Bombardillo','Kabangolin','Fisker','Catfisk','Nekimono','Elfae',
 'Elfae-Cherry','Elfae-Caramel','Elfae-Lemon','Elfae-Mint','Elfae-Blueberry','Elfae-Grape','Elfae-Cotton Candy','Elfae-Licorice','Fanshee','Reveram',
 'Sporasol','Bumbashoo','Umbrelala','Dimlit','Glimmwit','Nummsglow','Sentrode','Shokputz','Reknology','Batorch',
 'Vampyro','Sliggibak','Imisnake','Resemboa','Minatlas','Thornatlas','Squift','Seanobi','Ambiggle','Ambiggle-Fever',

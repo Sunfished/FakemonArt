@@ -54,7 +54,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		},
 	},
 
-	elfaewatermelon:{
+	elfae:{
 		learnset: {
 			tackle: ["8L1"],
 		},

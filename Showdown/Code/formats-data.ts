@@ -45,7 +45,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "Sunmons",
 	},
 
-	elfaewatermelon: {
+	elfae: {
 		tier: "Sunmons",
 		doublesTier: "Sunmons",
 	},
